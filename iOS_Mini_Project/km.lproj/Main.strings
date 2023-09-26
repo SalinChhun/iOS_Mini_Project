@@ -1,0 +1,48 @@
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "BSR-g6-l2v"; */
+"BSR-g6-l2v.title" = "Home";
+
+/* Class = "UITextField"; placeholder = "Enter Title"; ObjectID = "DKx-Nt-WGZ"; */
+"DKx-Nt-WGZ.placeholder" = "Enter Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GiY-Zh-txe"; */
+"GiY-Zh-txe.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "Mii-dB-R7G"; */
+"Mii-dB-R7G.title" = "Profile";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nqm-Wk-Ccp"; */
+"Nqm-Wk-Ccp.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "SxC-0u-fuU"; */
+"SxC-0u-fuU.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tev-pi-iDd"; */
+"Tev-pi-iDd.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X3c-u8-LGF"; */
+"X3c-u8-LGF.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "bKu-u5-Zot"; */
+"bKu-u5-Zot.text" = "Title";
+
+/* Class = "UILabel"; text = "Article"; ObjectID = "bO2-Od-hiq"; */
+"bO2-Od-hiq.text" = "Article";
+
+/* Class = "UIButton"; configuration.title = "Post"; ObjectID = "bkj-SE-zgb"; */
+"bkj-SE-zgb.configuration.title" = "Post";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bkj-SE-zgb"; */
+"bkj-SE-zgb.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Post"; ObjectID = "kME-q7-jN2"; */
+"kME-q7-jN2.title" = "Post";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kiv-ei-JVP"; */
+"kiv-ei-JVP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Post Article"; ObjectID = "op8-WL-PJg"; */
+"op8-WL-PJg.text" = "Post Article";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "uUs-bG-vNN"; */
+"uUs-bG-vNN.text" = "Description";
