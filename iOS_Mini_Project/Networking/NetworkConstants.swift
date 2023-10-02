@@ -6,3 +6,22 @@
 //
 
 import Foundation
+
+import Foundation
+
+class NetworkConstants {
+    
+    public static var shared: NetworkConstants = NetworkConstants()
+    
+    public var serverAddress: String {
+        get {
+            return "http://8.219.139.67:6654/api/v1"
+        }
+    }
+    
+    public var imageServerAddress: String {
+        get {
+            return "https://image.tmdb.org/t/p/w500/"
+        }
+    }
+}
